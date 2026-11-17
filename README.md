@@ -53,7 +53,8 @@ For example, selecting Seiko filters the device type chart to show which machine
 
 ### Key Insight
 
-The interactive dashboard makes it possible to move from an overall comparison of factory performance to a more detailed investigation of machine-level downtime.
+- The interactive dashboard makes it possible to move from an overall comparison of factory performance to a more detailed investigation of machine-level downtime.
+- Within the Seiko factory, LaserWelder recorded the highest downtime among the device types.
 
 
 
