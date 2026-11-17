@@ -29,7 +29,9 @@ The analysis was completed as part of the Deloitte Australia Data Analytics Job 
 
 
 
-## Dashboard
+## Tableau Dashboard
+
+![Tableau Dashboard](images/tableau-dashboard-1.png)
 
 
 
