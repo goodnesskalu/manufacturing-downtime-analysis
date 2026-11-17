@@ -66,4 +66,12 @@ For example, selecting Seiko filters the device type chart to show which machine
 
 ## Conclusion
 
+This project provided an opportunity to explore manufacturing machine performance using telemetry data and data visualisation.
+
+The analysis highlighted differences in downtime across four factories and identified LaserWelder as the device type with the highest downtime within the Seiko factory.
+
+The interactive Tableau dashboard makes it easier to compare factory performance and investigate machine types that may require further attention.
+
+This project strengthened my understanding of data exploration, visualisation, dashboard development and communicating insights from data.
+
 
