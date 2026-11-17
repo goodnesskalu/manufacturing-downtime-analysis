@@ -62,6 +62,10 @@ For example, selecting Seiko filters the device type chart to show which machine
 
 ![Tableau Dashboard](images/tableau-dashboard-1.png)
 
+### Download the Tableau Workbook
+
+[Download the Tableau Workbook](tableau/Deloitte%20Data%20Analysis%20Simulation.twbx)
+
 
 
 ## Conclusion
